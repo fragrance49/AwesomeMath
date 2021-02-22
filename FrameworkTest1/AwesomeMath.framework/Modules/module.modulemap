@@ -1,0 +1,6 @@
+framework module AwesomeMath {
+  umbrella header "AwesomeMath.h"
+
+  export *
+  module * { export * }
+}
